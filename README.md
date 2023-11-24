@@ -36,7 +36,9 @@
 </div>
 
 
-<p><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="height:300px;width:auto;align:"center;"/ ></p>
+<p style="text-align: center;>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="margin: 0 auto; display: block; height: 300px; width: auto;">
+</p>
 
 
 
