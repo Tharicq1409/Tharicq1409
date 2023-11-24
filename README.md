@@ -35,9 +35,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tharicq1409&show_icons=true&locale=en" alt="tharicq1409" style="width:385px;height:auto"/>
 </div>
 
-<p><img align="left" src="https://octodex.github.com/images/NUX_Octodex.gif"/ style="height:250px;width:auto"></p>
+<p><img align="left" src="https://octodex.github.com/images/hula_loop_octodex03.gif"/ style="height:250px;width:auto"></p>
 <br>
-<p><img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/ style="width:300px;height:auto;"></p>
+<p><img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/ style="width:300px;height:auto;margin-top:50px"></p>
 
 
 
