@@ -37,7 +37,7 @@
 </div>
 
 <p><img align="left" src="https://octodex.github.com/images/hula_loop_octodex03.gif"/ style="height:200px;width:auto"></p>
-<p><img align="right" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/ style="height:400px;width:auto"></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/ style="width:300px;height:auto;"></p>
 
 
 
