@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharicq1409&label=Profile%20views&color=0e75b6&style=flat" alt="tharicq1409" /> </p>
 
 - 🌱 I’m currently learning **Django, postgreSQL**
-- 📝 I regularly write articles on   <a href ="https://medium.com/@tharicq1409"><img src = "https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" style="width:30px;height:auto;"/></a>
+- 📝 I regularly write articles on   <a href ="https://medium.com/@tharicq1409">🌐</a> 
 
 - 💬 Ask me about **Django, postgreSQL, Linux**
 
-- 📫 How to reach me  <a href ="mailto:tharicq1409@gmail.com"><img src ="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" style="width:30px;height:auto;vertical-align: middle"/></a>
+- 📫 How to reach me  <a href ="mailto:tharicq1409@gmail.com">📧</a>
 
 - ⚡ Fun fact **I build my own world with creativity 😇.**
 
