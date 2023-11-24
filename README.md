@@ -35,7 +35,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tharicq1409&show_icons=true&locale=en" alt="tharicq1409" style="width:385px;height:auto"/>
 </div>
 
-<p align="center"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" style="height:300px;width:auto"/ ></p>
+<p align="center"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" style="height:200px;width:auto"/ ></p>
 
 
 
