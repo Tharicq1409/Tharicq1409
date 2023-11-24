@@ -36,7 +36,7 @@
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 300px; width: auto">
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="max-height: 100%; max-width: 100%;" />
 </div>
 
